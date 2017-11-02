@@ -1,6 +1,13 @@
+# Getting Started 
 
+1. Everyone loves and ordered list
+1. *Emphasis* everyone
+1. Why is it _1 **every** time_?
 
+##Here's a smaller header
 
 # For part 2: A sample technical blog post
-https://stu.itp.nyu.edu/~eef206/blog/erins-all-caps-guide-to-git-and-github-troubleshooting-for-total-n00bs/
+
+
+[My own notes on using git and github] https://stu.itp.nyu.edu/~eef206/blog/erins-all-caps-guide-to-git-and-github-troubleshooting-for-total-n00bs/
 
