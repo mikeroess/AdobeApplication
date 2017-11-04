@@ -25,6 +25,23 @@ We should have a queue of responses on hand for this sort of scenario as well. I
 
 ## Twitter in General
 
-In general I've found Twitter to be a good platform to get a fast response from otherwise large and faceless corporations.  I like it when corporate accounts have a good sense of humor, like in this instance where Wendy's chided someone for forgetting about refridgeration.  That said, that user had to delete his or her account.
-  
-  
+In general I've found Twitter to be a good platform to get a fast response from otherwise large and faceless corporations.  I like it when corporate accounts have a good sense of humor, like in [this instance](http://www.adweek.com/creativity/wendys-put-troll-ice-2017s-best-tweet-so-far-175334/) where Wendy's chided someone for [forgetting about refridgeration](https://twitter.com/Wendys/status/815973811115925504?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fwww.adweek.com%2Fcreativity%2Fwendys-put-troll-ice-2017s-best-tweet-so-far-175334%2F).  That said, the user had to delete thier account.
+
+That kind of response might be appropriate for Wendy's brand image, but not for Adobe's brand.  If I'm going to represent Adobe CC on twitter I would need to know:
+- What is the company's brand image?
+- What rules are already in place for community engagement? \(I would also be happy to write those rules, as needed.\)
+- What are Adobe's goals for online presence and engagement?
+- Am I responding as an individual with a name, or as a brand? Am I "Erin from Adobe CC" or just "Adobe CC"?
+
+I opened my Twitter account in 2008, mostly to engage with the anime journalism community online.  When I started writing the AnimeNewsNetwork.com column in 2009 I got 3,000 new followers overnight.  Although no one at ANN trained me to do so, I took it upon myself to interact with twitter users the same way I did with forum readers, by:
+- Using gentle good humor.
+- Killing them with kindess.
+- Not feeding the trolls.
+
+Soon I found that, with enough followers, Twitter was a great resource for writing the column.  At any time of day or night,  I could crowdsource answers to un-goolgeable questions \("Hey what was the title of that anime with the pirate cat?" etc.\).
+
+A loyal Twitter following that feels a personal connection can be a great resource.  For Adobe, a dedicated, respected community person could get helpful feedback, such as:
+- What's our top bug that you'd like to see squashed today?
+- Which new feature are you looking forward to most in the next update?
+- Who would like to beta test a pre-release API tomorrow?
+- Has anyone else gotten this error? If so when? \(Retweering errors from the community\)
