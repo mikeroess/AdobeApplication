@@ -15,7 +15,9 @@ I spent 10 years as a journalist engaging with the anime and manga fan community
 ### Forum/Stackoverflow/etc answers you’ve written.
 - I spent three years writing for [Anime News Network], where part of my job as columnist was daily interaction with readers in the forum. In this example, I used insider jargon [incorrectly in a review](https://www.animenewsnetwork.com/shelf-life/2010-01-04#spice), causing [the forums to light up that week](https://www.animenewsnetwork.com/bbs/phpBB2/viewtopic.php?t=126151).  You know it's going to be bad when the reaction post is:
    > Did you just call Horo a tsundere? To quote the great Inigo Montoya 'there will be blood tonight!' ...in the forum that is. 
+   
   - Fortunately I [liked season two better](https://www.animenewsnetwork.com/shelf-life/2011-09-26#spice), but I had to make peace with the readers:
+  
   
    > You know, I learned a lot by reviewing Spice and Wolf season one. I learned never to use words like “furry” or “tsundere,” even if I think I know what those words mean. I learned that many readers consider “Rental Shelf” to be a pan (I disagree). I learned that anime fans love Spice and Wolf.
 
