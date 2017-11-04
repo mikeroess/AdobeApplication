@@ -29,15 +29,14 @@ I spent 10 years as a journalist engaging with the anime and manga fan community
     - Here's [a code sample](https://github.com/ErinFinnegan/Omnomitron/blob/master/itallhappenshere.js)
     - Here's [a video of the code working](https://vimeo.com/100457165)
 - [Here's a RESTful application](https://github.com/kinasmith/isTheFloorFeeding/blob/master/heroku/public/index.html) that I collaborated on with a classmate (the page [still exists](http://isthefloorfeeding.herokuapp.com/) on heroku).
-
-![Food Sign](https://github.com/ErinFinnegan/AdobeApplication/blob/master/isthefloorfeeding.jpg)
+    - See the image below of the physical component of the project
 
 ###  Decks are also welcome.
  - [Here is the second best presentation I've ever given](https://vimeo.com/30828018).  I cover 300+ slides in under an hour. 
    - That panel represents eight years of learning, in a deep dive into manga, and Japanese culture. I went from zero to an expert in the subject in a handful of years.
  - I consider [my Master's thesis](https://vimeo.com/128758304) my best presentation, but I didn't spent as much time on it.
 
-
+![Food Sign](https://github.com/ErinFinnegan/AdobeApplication/blob/master/isthefloorfeeding.jpg)
 
 
 
