@@ -26,7 +26,7 @@ We should have a queue of responses on hand for this sort of scenario as well. I
 
 ## Twitter in General
 
-In general I've found Twitter to be a good platform to get a fast response from otherwise large and faceless corporations.  I like it when corporate accounts have a good sense of humor, like in [this instance](http://www.adweek.com/creativity/wendys-put-troll-ice-2017s-best-tweet-so-far-175334/) where Wendy's chided someone for [forgetting about refridgeration](https://twitter.com/Wendys/status/815973811115925504?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fwww.adweek.com%2Fcreativity%2Fwendys-put-troll-ice-2017s-best-tweet-so-far-175334%2F).  That said, the user had to delete thier account.
+In general I've found Twitter to be a good platform to get a fast response from otherwise large and faceless corporations.  I like it when corporate accounts have a good sense of humor, like in [this instance](http://www.adweek.com/creativity/wendys-put-troll-ice-2017s-best-tweet-so-far-175334/) where Wendy's chided someone for [forgetting about refrigeration](https://twitter.com/Wendys/status/815973811115925504?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fwww.adweek.com%2Fcreativity%2Fwendys-put-troll-ice-2017s-best-tweet-so-far-175334%2F).  That said, the user had to delete their account.
 
 That kind of response might be appropriate for Wendy's brand image, but not for Adobe's brand.  If I'm going to represent Adobe CC on twitter I would need to know:
 - What is the company's brand image?
@@ -36,18 +36,18 @@ That kind of response might be appropriate for Wendy's brand image, but not for 
 
 I opened my Twitter account in 2008, mostly to engage with the anime journalism community online.  When I started writing the AnimeNewsNetwork.com column in 2009 I got 3,000 new followers overnight.  Although no one at ANN trained me to do so, I took it upon myself to interact with twitter users the same way I did with forum readers, by:
 - Using gentle good humor.
-- Killing them with kindess.
+- Killing them with kindness.
 - Not feeding the trolls.
 
-I also knew that the editors of AnimeNewsNetwork had my back. When someone even jokingly threatened physcial violence once, they were banned from the forum (with an explanation from the head of the company) before I saw the message.  The editors stepped in when the readers got too aggressive at times.  It's important to plan in advance for that kind of scenario as well. In other words:
+I also knew that the editors of AnimeNewsNetwork had my back. When someone even jokingly threatened physical violence once, they were banned from the forum (with an explanation from the head of the company) before I saw the message.  The editors stepped in when the readers got too aggressive at times.  It's important to plan in advance for that kind of scenario as well. In other words:
 - How does Adobe deal with customers making violent threats or stalking the Community Engineer?
 
 ## Twitter as a Resource
 
-Soon I found that, with enough followers, Twitter was a great resource for writing the column.  At any time of day or night,  I could crowdsource answers to un-goolgeable questions \("Hey what was the title of that anime with the pirate cat?" etc.\).
+Soon I found that, with enough followers, Twitter was a great resource for writing the column.  At any time of day or night,  I could crowdsource answers to un-goolge-able questions \("Hey what was the title of that anime with the pirate cat?" etc.\).
 
 A loyal Twitter following that feels a personal connection can be a great resource.  For Adobe, a dedicated, respected community person could get helpful feedback, such as:
 - What's our top bug that you'd like to see squashed today?
 - Which new feature are you looking forward to most in the next update?
 - Who would like to beta test a pre-release API tomorrow?
-- Has anyone else gotten this error? If so when? \(Retweering errors from the community\)
+- Has anyone else gotten this error? If so when? \(Retweeting errors from the community\)

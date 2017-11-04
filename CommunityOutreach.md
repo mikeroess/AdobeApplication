@@ -1,14 +1,14 @@
 ### Existing Examples of Community Engagement or Marketing Outreach
 
-I spent 10 years as a journalist engaging with the anime and manga fan community. I got into it by [starting a podcast](https://itunes.apple.com/us/podcast/ninja-consultant-podcast/id74941727?mt=2), and I met other podcasters who were anime magazine writers first and podcasters second; soon I started getting paid gigs reviewing anime and manga and writing convention coverage, for Publisers Weekly, Otaku USA Magazine, and AnimeNewsNetwork.com.
+I spent 10 years as a journalist engaging with the anime and manga fan community. I got into it by [starting a podcast](https://itunes.apple.com/us/podcast/ninja-consultant-podcast/id74941727?mt=2), and I met other podcasters who were anime magazine writers first and podcasters second; soon I started getting paid gigs reviewing anime and manga and writing convention coverage, for Publishers Weekly, Otaku USA Magazine, and AnimeNewsNetwork.com.
 
 ### Product launches you were involved in.
   - I wrote for Otaku USA from the 2nd issue on, so in the magazine's first year I was invited to sit on this panel, which I recorded for my podcast: [Otaku USA Magazine panel at New York Anime Festival 2008](http://ninjaconsultant.com/?m=200811)
   - [I interviewed the author of The Rough Guide to Anime](https://www.publishersweekly.com/pw/by-topic/new-titles/adult-announcements/article/12974-an-anime-canon-for-all.html), as press for his book launch for Publishers Weekly.
 
-### Maketing content you’ve written (preferably for a technical audience).
+### Marketing content you’ve written (preferably for a technical audience).
 - At Lerner's Graphic Universe, I essentially wrote the marketing blog:
-   -  [My wordpress author tag on their site](https://graphicuniverse.wordpress.com/author/erinfinnegan/)
+   -  [My Wordpress author tag on their site](https://graphicuniverse.wordpress.com/author/erinfinnegan/)
    -  [Some convention coverage for Lerner](https://graphicuniverse.wordpress.com/2010/04/28/mocca2010/)
    -  [Gathering coverage of a book's release](https://graphicuniverse.wordpress.com/2010/08/25/early-praise-for-nolas-worlds/)
 
