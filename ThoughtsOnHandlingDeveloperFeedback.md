@@ -21,7 +21,8 @@ We should have a queue of responses on hand for this sort of scenario as well. I
   
 - After the APIs are back up, take the time to reply \(or write an app to automatically reply to\) all of the twitter users who pointed out the problem, saying something to the effect of:
   - Thanks for taking the time to let us know. We think the APIs are back up and running now. Please tell us if you're still experiencing problems.
-  - If possible personalize some of the replies after the clean up to let the developers know we read each one, especially to the people who seem the most angry.
+  - If possible personalize some of the replies after the clean up to let the developers know we read each one, especially to the people who seemed the most passionate about the problem.
+  - I've found that developers and engineers appreciate honesty and brevity.  After such a problem, posting some of the technical details of what happened please parts of the community.
 
 ## Twitter in General
 
@@ -37,6 +38,11 @@ I opened my Twitter account in 2008, mostly to engage with the anime journalism 
 - Using gentle good humor.
 - Killing them with kindess.
 - Not feeding the trolls.
+
+I also knew that the editors of AnimeNewsNetwork had my back. When someone even jokingly threatened physcial violence once, they were banned from the forum (with an explanation from the head of the company) before I saw the message.  The editors stepped in when the readers got too aggressive at times.  It's important to plan in advance for that kind of scenario as well. In other words:
+- How does Adobe deal with customers making violent threats or stalking the Community Engineer?
+
+## Twitter as a Resource
 
 Soon I found that, with enough followers, Twitter was a great resource for writing the column.  At any time of day or night,  I could crowdsource answers to un-goolgeable questions \("Hey what was the title of that anime with the pirate cat?" etc.\).
 
