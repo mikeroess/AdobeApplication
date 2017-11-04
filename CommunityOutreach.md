@@ -19,7 +19,7 @@ I spent 10 years as a journalist engaging with the anime and manga fan community
   - Fortunately I [liked season two better](https://www.animenewsnetwork.com/shelf-life/2011-09-26#spice), but I had to make peace with the readers:
   
   
-   > You know, I learned a lot by reviewing Spice and Wolf season one. I learned never to use words like “furry” or “tsundere,” even if I think I know what those words mean. I learned that many readers consider “Rental Shelf” to be a pan (I disagree). I learned that anime fans love Spice and Wolf.
+   >> You know, I learned a lot by reviewing Spice and Wolf season one. I learned never to use words like “furry” or “tsundere,” even if I think I know what those words mean. I learned that many readers consider “Rental Shelf” to be a pan (I disagree). I learned that anime fans love Spice and Wolf.
 
 ### Details on email campaigns you’ve driven.
 
