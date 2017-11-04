@@ -1,6 +1,6 @@
 ### Existing Examples of Community Engagement or Marketing Outreach
 
-I spent 10 years as a journalist engaging with the anime and manga fan community. I got into it by [starting a podcast](https://itunes.apple.com/us/podcast/ninja-consultant-podcast/id74941727?mt=2), and I met other podcasters who were anime magazine writers first and podcasters second; through them I started getting paid gigs reviewing anime and manga and writing convention coverage, for Publisers Weekly, Otaku USA Magazine, and AnimeNewsNetwork.com.
+I spent 10 years as a journalist engaging with the anime and manga fan community. I got into it by [starting a podcast](https://itunes.apple.com/us/podcast/ninja-consultant-podcast/id74941727?mt=2), and I met other podcasters who were anime magazine writers first and podcasters second; soon I started getting paid gigs reviewing anime and manga and writing convention coverage, for Publisers Weekly, Otaku USA Magazine, and AnimeNewsNetwork.com.
 
 ### Product launches you were involved in.
   - I wrote for Otaku USA from the 2nd issue on, so in the magazine's first year I was invited to sit on this panel, which I recorded for my podcast: [Otaku USA Magazine panel at New York Anime Festival 2008](http://ninjaconsultant.com/?m=200811)
