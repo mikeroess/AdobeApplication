@@ -21,9 +21,10 @@ We should have a queue of responses on hand for this sort of scenario as well. I
   
 - After the APIs are back up, take the time to reply \(or write an app to automatically reply to\) all of the twitter users who pointed out the problem, saying something to the effect of:
   - Thanks for taking the time to let us know. We think the APIs are back up and running now. Please tell us if you're still experiencing problems.
+  - If possible personalize some of the replies after the clean up to let the developers know we read each one, especially to the people who seem the most angry.
 
 ## Twitter in General
 
-
+In general I've found Twitter to be a good platform to get a fast response from otherwise large and faceless corporations.  I like it when corporate accounts have a good sense of humor, like in this instance where Wendy's chided someone for forgetting about refridgeration.  That said, that user had to delete his or her account.
   
   
