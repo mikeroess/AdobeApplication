@@ -2,25 +2,23 @@
 
 ## Contents
 
+"Fast Random Stock Image" is CRUD REST API pulls stock images from Stock CC for placement into Illustrator, InDesign, Photoshop, or Premiere.  The user specifies the number and sizes of the image required, as well as any desired image tags, and Stock places the images into the right places in the prepared InDesign document.
 
 ## Prerequisites
 
 1. Here is a list of requirements to get you started. You will need:
   1. An Adobe Creative Cloud ID
-  1. To be approved to be in the Adobe CC Developers and get the API key
-  1. The following libraries installed
-    - a 
-    - b
-    - c
-  1. Here's where you put the API key
+  1. To be an approved Adobe CC Developer. If you aren't already, apply [here].
+  1. An Adobe Stock subscription. 10 standard assets are free, [read more here](https://stock.adobe.com).
+  1. An API key. Generate yours by clicking [here].
 
-## Here's where we set the context
+## Setting the context
 
-- Here's what this API has to offer.
-- Is this RESTful API the right one for your project?
-- Here is a sample dataset, or sample files that you can use to get started.
+- This API is the visual equivalent of a graphic designer's "[Lorem ipsum](https://www.lipsum.com/)" text. With a few input variables, designers can quickly pull almost-random stock images into a page layout. The user may also optionally to cover each image with an "Artwork not final" watermark.
+- Is this RESTful API the right one for your project?  TBD filler text about why you might want to use another method.
+- Here are [two sample InDesign documents] you can download for use in the examples below. 
 
-## Here's a compelling use case
+## A compelling use case
 It's a story about someone who would want to use this API.
 
 ## Your First Program
