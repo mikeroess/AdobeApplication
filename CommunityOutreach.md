@@ -1,4 +1,4 @@
-### Marketing content you’ve written (preferably for a technical audience).
+### Marketing content you’ve written.
 - At Lerner's Graphic Universe, I essentially wrote the marketing blog:
    -  [My Wordpress author tag on their site](https://graphicuniverse.wordpress.com/author/erinfinnegan/)
    -  [Some convention coverage for Lerner](https://graphicuniverse.wordpress.com/2010/04/28/mocca2010/)
