@@ -21,11 +21,12 @@ I spent 10 years as a journalist engaging with the anime and manga fan community
    > You know, I learned a lot by reviewing Spice and Wolf season one. I learned never to use words like “furry” or “tsundere,” even if I think I know what those words mean. I learned that many readers consider “Rental Shelf” to be a pan (I disagree). I learned that anime fans love Spice and Wolf.
 
 ### Details on email campaigns you’ve driven.
-- In 2016 [I did this kickstarter campaign](https://www.kickstarter.com/projects/432973105/puppet-vr-murder-mystery) for a personal project, the "Puppet VR Murder Mystery. I was inspired to pitch the project at the [NY Media Center's VR Pitchfest](http://nymediacenter.com/events/event/?id=46910F62-0543-4157-B569EF3C490345BE&slugid=virtual-reality-pitchfest), and chosen from hundreds of applicants to pitch to a Shark Tank of professionals.
+- In 2016 [I did this kickstarter campaign](https://www.kickstarter.com/projects/432973105/puppet-vr-murder-mystery) for a personal project, the "Puppet VR Murder Mystery". I was inspired to pitch the project at the [NY Media Center's VR Pitchfest](http://nymediacenter.com/events/event/?id=46910F62-0543-4157-B569EF3C490345BE&slugid=virtual-reality-pitchfest), and chosen from hundreds of applicants to pitch to a Shark Tank of professionals.
   - I used SurveyMonkey and GreenInbox to try and reach all my Gmail and Facebook contacts.
-  - Realizing that SurveyMonkey emails get sorted into Gmail's "Promotions" tab, I used a Gmail add-on script to email 80 people per day.
+  - Realizing that SurveyMonkey emails get sorted into Gmail's "Promotions" tab, I used [a Gmail add-on script](https://chrome.google.com/webstore/detail/mail-merge-with-attachmen/nifmcbjailaccmombpjjpijjbfoicppp) to email 80 people per day.
   - I plan on re-launching this campaign next March with a lower goal, using everything I've learned about Kickstarter so far.
 
+- In 2016, I co-created an interactive theater piece called ["The Institute"](https://sharangbiswas.myportfolio.com/the-institute), which recieved a Google Experiments in Storytelling Grant.  In terms of the marketing campaign, I was in charge of [creating the Facebook group](https://www.facebook.com/TheInstituteAtTheBrick/) during the performances.
 
 ### Open source projects you’ve contributed to, or a write-up of your contributions to a closed source project that we can verify.
   - Here's a good write-up of [Twitch Plays Shakespeare](http://fromjia.com/projects/twitch/), funded by the Google Experiments in Storyteling Grant. I created and directed the project, collaborated on coding it, and hired Jia as the graphic designer. [Here's the code](https://github.com/futuremarc/Twitch-Plays-Hamlet).
