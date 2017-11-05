@@ -18,11 +18,17 @@ We should have a queue of responses on hand for this sort of scenario as well. I
 - You're right, some of our APIs are down at the moment. We're working on the problem now.
 - Responding to tweets that haven't noticed the previous response:
   - We're aware of the problem and working on a solution right now.
-  
 - After the APIs are back up, take the time to reply \(or write an app to automatically reply to\) all of the twitter users who pointed out the problem, saying something to the effect of:
   - Thanks for taking the time to let us know. We think the APIs are back up and running now. Please tell us if you're still experiencing problems.
   - If possible personalize some of the replies after the clean up to let the developers know we read each one, especially to the people who seemed the most passionate about the problem.
   - I've found that developers and engineers appreciate honesty and brevity.  After such a problem, posting some of the technical details of what happened please parts of the community.
+
+## Speed is Critical
+
+Responding in a timely, if not instantaneously, is definately key to twitter. I work second shift at NYU, and find it frustrating trying to contact tech support for software after 5pm Eastern.  As Community Engineer I would need to know:
+- Who monitors the Twitter account overnight and on weekends?
+- Who monitors the Twitter account on holidays unique to the U.S.?
+- Who monitors the Twitter account during normal business hours when I'm at an all-staff meeting?
 
 ## Twitter in General
 
